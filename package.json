@@ -1,0 +1,33 @@
+{
+  "name": "ec2-public-hostname",
+  "version": "1.0.0",
+  "description": "Retrieve EC2 instance public hostname",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikandants/node-ec2-public-hostname.git"
+  },
+  "keywords": [
+    "ec2",
+    "aws",
+    "public-hostname",
+    "hostname",
+    "instance",
+    "amazon",
+    "meta-data"
+  ],
+  "author": "Manikandan TS <manikandan.citeee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manikandants/node-ec2-public-hsotname/issues"
+  },
+  "homepage": "https://github.com/manikandants/node-ec2-public-hostname#readme",
+  "dependencies": {
+    "async": "1.5.2",
+    "request": "2.69.0"
+  },
+  "tonicExampleFilename": "example.js"
+}
