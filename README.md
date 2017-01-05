@@ -29,6 +29,7 @@ Public Hostname of Amazon EC2 instances can be retrieved via http GET calls to h
 This module gets the public Hostname from meta-data api.
 
 ## Change Log
+- 1.0.2: Dependencies update
 - 1.0.1: Dependencies update
 - 1.0.0: Basic getPublicHostname method.
 
